@@ -1,0 +1,26 @@
+h1, h2, p{
+    text-align: center;
+}
+body{
+    background-image: url(https://www.petz.com.br/blog/wp-content/uploads/2021/08/como-plantar-cafe2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.menu{
+    max-width: 500px;
+    width: 80%;
+    margin: 0 auto 0 auto;
+    background-color: burlywood;
+    padding: 20px;
+}
+.cafe, .sobremesa{
+    text-align: left;
+    width: 75%;
+}
+.preco{
+    text-align: right;
+    width: 25%;
+}
+.item p {
+    display: inline-block;
+}
